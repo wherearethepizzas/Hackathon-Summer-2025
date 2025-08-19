@@ -25,7 +25,7 @@ Predictions should be posted to your github account as a plain text file with th
 
 - Prediction files associated with hackathon registered github accounts will be assessed each day of the competition. 
 
-- Files must be posted by 9AM and scores based on the smallest RMSD (root mean squared deviation) will be posted by 12PM.
+- Scores based on the smallest RMSD (root mean squared deviation) will be posted at 3PM daily. To receive a score, please post your predictions by 2:59pm. 
 
 **Prizes**
 - The competition runs through 2:59 PM EDT 23-August-2025.  The predictions each team has committed to their repository at that time will be used to determine their final score. Winning teams must submit their code to organizers to claim their prize. 
